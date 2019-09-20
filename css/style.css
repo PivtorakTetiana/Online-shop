@@ -773,6 +773,9 @@ img#burger {
     }
 }
 @media screen and (max-width:376px){
+    .product-name {
+        font-size: 18px;
+    }
     .bann-txt-upper{
         font-size: 30px;
     }
