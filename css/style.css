@@ -683,7 +683,7 @@ img#burger {
 }
 
 @media screen and (max-width:500px) {
-    .cart-end-search-wrapp {
+    .search {
         display: none;
     }
     .footer-phone {
