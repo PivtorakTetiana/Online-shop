@@ -685,9 +685,6 @@ img#burger {
 }
 
 @media screen and (max-width:500px) {
-    /*.search {
-        display: none;
-    }*/
     .footer-phone {
         font-size: 18px;
     }
