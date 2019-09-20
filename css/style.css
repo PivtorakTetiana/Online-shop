@@ -98,6 +98,7 @@ img#cart {
 .cart-end-search-wrapp {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 .small-info {
     margin: 50px auto;
